@@ -1,2 +1,2 @@
 # scraping-top-github-repos
-Scraping GitHub top repositories from topics page.
+Scraping top GitHub repositories from GitHub topics page using requests, beautifulsoup4 and pandas library of python.
